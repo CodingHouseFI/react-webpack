@@ -8,7 +8,7 @@ export default class Layout extends Component {
   render() {
     return (
       <div className='container'>
-        <h1 className='text-center'>Flux</h1>
+        <h1 className='text-center'>React Webpack</h1>
       </div>
     )
   }
